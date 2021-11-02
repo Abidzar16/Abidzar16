@@ -9,8 +9,8 @@ class bio(resume):
     self.experience = [{
       "occupation": "Backend Engineer Intern",
       "location": "Information Technology Center Directorate, Telkom University",
-      "start_date": datetime(2021, 2, 28),
-      "end_date": None # I am still working here
+      "start_date": datetime(2021, 2, 1),
+      "end_date": datetime(2021, 7, 31)
     },{
       "occupation": "Data Engineer Intern",
       "location": "PT Telekomunikasi Selular",
