@@ -7,10 +7,15 @@ class bio(resume):
     self.name = "Abidzar M. G. Kurniawan"
     self.title = "Software Engineer"
     self.experience = [{
+      "occupation": "Backend Mentor Studi Independen Startup Campus",
+      "location": "Remote",
+      "start_date": datetime(2022, 6, 1),
+      "end_date": datetime(2022, 12, 31)
+    },{
       "occupation": "Backend Mentor Studi Independen Ruangguru",
       "location": "Remote",
       "start_date": datetime(2022, 2, 1),
-      "end_date": datetime(2022, 6, 31)
+      "end_date": datetime(2022, 5, 31)
     },{
       "occupation": "Backend Engineer Intern",
       "location": "Information Technology Center Directorate, Telkom University",
@@ -25,7 +30,7 @@ class bio(resume):
     
 class skill(resume):
   def __init__(self):
-    self.language = ["Python","Javascript"]
+    self.language = ["Python","NodeJS"]
     self.database = ["MySQL","PostgreSQL","MongoDB"]
     self.technology = ["NodeJS","ExpressJS","Postman","VSCode","Github"]
 ```
