@@ -7,6 +7,11 @@ class bio(resume):
     self.name = "Abidzar M. G. Kurniawan"
     self.title = "Software Engineer"
     self.experience = [{
+      "occupation": "Backend Engineer Ihsan Solusi Informatika",
+      "location": "Bandung",
+      "start_date": datetime(2023, 10, 20),
+      "end_date": datetime(2024, 01, 11)
+    },{
       "occupation": "Backend Mentor Studi Independen Startup Campus",
       "location": "Remote",
       "start_date": datetime(2022, 6, 1),
