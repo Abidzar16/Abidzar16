@@ -40,7 +40,7 @@ class bio(resume):
     
 class skill(resume):
   def __init__(self):
-    self.language = ["Python","NodeJS"]
-    self.database = ["MySQL","PostgreSQL","MongoDB"]
+    self.language = ["Python","NodeJS", "Go"]
+    self.database = ["MySQL","PostgreSQL","MongoDB","OracleDB"]
     self.technology = ["NodeJS","ExpressJS","Postman","VSCode","Github"]
 ```
