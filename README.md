@@ -11,6 +11,7 @@ class bio(resume):
       "occupation": "FUll Stack Developer at PT Infomedia Nusantara",
       "location": "Jakarta",
       "start_date": datetime(2024, 08, 12)
+      "start_date": datetime(2025, 12, 31)
     },{
       "occupation": "Backend Engineer Ihsan Solusi Informatika",
       "location": "Bandung",
