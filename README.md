@@ -8,10 +8,15 @@ class bio(resume):
     self.title = "Software Engineer"
     self.experience = [
     {
-      "occupation": "FUll Stack Developer at PT Infomedia Nusantara",
+      "occupation": "Backend Developer at Jakarta Smart City Unit",
+      "location": "Jakarta",
+      "start_date": datetime(2026, 06, 02)
+    },
+    {
+      "occupation": "Full Stack Developer at PT Infomedia Nusantara",
       "location": "Jakarta",
       "start_date": datetime(2024, 08, 12)
-      "start_date": datetime(2025, 12, 31)
+      "end_date": datetime(2025, 12, 31)
     },{
       "occupation": "Backend Engineer Ihsan Solusi Informatika",
       "location": "Bandung",
